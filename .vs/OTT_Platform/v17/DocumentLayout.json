@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OTT Platform\\OTT_Platform_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\models\\mst_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\mst_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\models\\mst_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\mst_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\dbcontext\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\dbcontext\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|d:\\ott platform\\ott_platform_api\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|d:\\ott platform\\ott_platform_api\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|d:\\ott platform\\ott_platform_api\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|d:\\ott platform\\ott_platform_api\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B3291024-8364-4D45-B831-4344FD0E7AB4}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|d:\\ott platform\\ott_platform_api\\adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16C8EA1D-F617-4AC2-BC3B-E990B5EFB4F0}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "AdminService\\Services\\AdminServices.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Services\\AdminServices.cs",
+              "RelativeToolTip": "AdminService\\Services\\AdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:31:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "AdminService\\Interfaces\\IAdminService.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "AdminService\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:31:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "AdminService\\Repositories\\AdminRepository.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "AdminService\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:41:53.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "AdminService\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "AdminService\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:29:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mst_Menu.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Models\\Mst_Menu.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\Mst_Menu.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Models\\Mst_Menu.cs",
+              "RelativeToolTip": "AdminService\\Models\\Mst_Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:25:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminService\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AdminService\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:32:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mst_Users.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Models\\Mst_Users.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\Mst_Users.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Models\\Mst_Users.cs",
+              "RelativeToolTip": "AdminService\\Models\\Mst_Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:25:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admindbcontext.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\DbContext\\admindbcontext.cs",
+              "RelativeDocumentMoniker": "AdminService\\DbContext\\admindbcontext.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\DbContext\\admindbcontext.cs",
+              "RelativeToolTip": "AdminService\\DbContext\\admindbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:29:02.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Program.cs",
+              "RelativeDocumentMoniker": "AdminService\\Program.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Program.cs",
+              "RelativeToolTip": "AdminService\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:01:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:01:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.json",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\appsettings.json",
+              "RelativeToolTip": "AdminService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T09:52:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T09:33:04.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T11:56:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AdminService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\AdminService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AdminService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T11:56:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiGateway.http",
+              "DocumentMoniker": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\ApiGateway.http",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.http",
+              "ToolTip": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\ApiGateway.http",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-11T11:51:10.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

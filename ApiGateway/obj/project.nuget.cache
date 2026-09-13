@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFNsYghiscg=",
+  "success": true,
+  "projectFilePath": "D:\\OTT Platform\\OTT_Platform_Api\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.30\\microsoft.aspnetcore.authentication.jwtbearer.8.0.30.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.22.0\\microsoft.identitymodel.abstractions.8.22.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.22.0\\microsoft.identitymodel.jsonwebtokens.8.22.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.logging\\8.22.0\\microsoft.identitymodel.logging.8.22.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.7.3\\microsoft.identitymodel.protocols.7.7.3.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.7.3\\microsoft.identitymodel.protocols.openidconnect.7.7.3.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.22.0\\microsoft.identitymodel.tokens.8.22.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\scalar.aspnetcore\\2.17.3\\scalar.aspnetcore.2.17.3.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.22.0\\system.identitymodel.tokens.jwt.8.22.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\byy927810\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
