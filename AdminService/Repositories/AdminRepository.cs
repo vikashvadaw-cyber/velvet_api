@@ -24,21 +24,6 @@ namespace AdminService.Repositories
             _config = config;
         }
 
-        public async Task<List<Mst_Menu>> GetMenus()
-        {
-            try
-            {
-                var menus = await _dbcontext.Mst_Menu.ToListAsync();
-
-                return menus;
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "An error occurred while getting all users.");
-                throw;
-            }
-        }
-
         public async Task<bool?> registeruser(Mst_Users userreq)
         {
             _logger.LogInformation("Register Api called at", DateTime.Now);
@@ -164,6 +149,34 @@ namespace AdminService.Repositories
 
             return token;
 
+        }
+        public async Task<List<Mst_Menu>> GetMenus()
+        {
+            try
+            {
+                var menus = await _dbcontext.Mst_Menu.ToListAsync();
+
+                return menus;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "An error occurred while getting all users.");
+                throw;
+            }
+        }
+        public async Task<List<Mst_Movies>> GetMovies()
+        {
+            try
+            {
+                var movies = await _dbcontext.Mst_Movies.ToListAsync();
+
+                return movies;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "An error occurred while getting all users.");
+                throw;
+            }
         }
 
 

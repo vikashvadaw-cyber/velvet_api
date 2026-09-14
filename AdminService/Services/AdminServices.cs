@@ -14,19 +14,6 @@ namespace AdminService.Services
             _logger = logger;
         }
 
-        public async Task<List<Mst_Menu>> GetMenus()
-        {
-            try
-            {
-                return await _repository.GetMenus();
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "An error occurred while getting all users.");
-                throw;
-            }
-        }
-
         public async Task<bool?> registeruser(Mst_Users userreq)
         {
             return await _repository.registeruser(userreq);
@@ -40,5 +27,19 @@ namespace AdminService.Services
         {
             return await _repository.refreshtokenasync(req);
         }
+
+        public async Task<List<Mst_Menu>> GetMenus()
+        {
+           
+                return await _repository.GetMenus();
+            
+        }
+
+        public async Task<List<Mst_Movies>> GetMovies()
+        {
+            
+                return await _repository.GetMovies();
+        }
+
     }
 }
