@@ -20,15 +20,6 @@ namespace AdminService.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
-        //[Authorize]
-        [Route("GetMenus")]
-        public async Task<IActionResult> GetMenus()
-        {
-            var res = await _adminService.GetMenus();
-            return res != null ? Ok(res) : NotFound();
-        }
-
         [HttpGet("{id}")]
         public string Get(int id)
         {
@@ -79,6 +70,47 @@ namespace AdminService.Controllers
             catch (Exception ex)
             {
                 _logger.LogError("Refresh Token Api error:-", ex);
+                throw;
+            }
+        }
+
+
+        [HttpGet]
+        //[Authorize]
+        [Route("GetMenus")]
+        public async Task<IActionResult> GetMenus()
+        {
+
+            _logger.LogInformation("GetMenus Api called at", DateTime.Now);
+
+            try
+            {
+                var res = await _adminService.GetMenus();
+                return res != null ? Ok(res) : NotFound();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("GetMenus Api error:-", ex);
+                throw;
+            }
+        }
+
+
+        [HttpGet]
+        //[Authorize]
+        [Route("GetMovies")]
+        public async Task<IActionResult> GetMovies()
+        {
+            _logger.LogInformation("GetMovies Api called at", DateTime.Now);
+
+            try
+            {
+                var res = await _adminService.GetMovies();
+                return res != null ? Ok(res) : NotFound();
+            }
+              catch (Exception ex)
+            {
+                _logger.LogError("GetMovies Api error:-", ex);
                 throw;
             }
         }

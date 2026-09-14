@@ -11,5 +11,6 @@ namespace AdminService.Dbcontext
         public DbSet<Mst_Users> Mst_Users => Set<Mst_Users>();
 
         public DbSet<Mst_Menu> Mst_Menu => Set<Mst_Menu>();
+        public DbSet<Mst_Movies> Mst_Movies => Set<Mst_Movies>();
     }
 }
